@@ -1,3 +1,4 @@
+# DIVISION
 # number 1
 num1 = int(input("Enter a number: "))
 # number 2
